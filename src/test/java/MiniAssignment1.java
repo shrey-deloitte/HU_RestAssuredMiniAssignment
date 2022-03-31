@@ -1,16 +1,14 @@
 //import org.asynchttpclient.Response;
-import io.restassured.path.json.JsonPath;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.*;
-import static io.restassured.matcher.RestAssuredMatchers.*;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
 import  io.restassured.response.Response;
 
 import java.io.File;
 
-public class GET {
+public class MiniAssignment1 {
 
     @Test
     public void getCallTest(){
