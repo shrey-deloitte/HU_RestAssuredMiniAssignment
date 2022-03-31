@@ -36,29 +36,31 @@ public class GET {
 
     @Test
     public void validateTitle(){
-        Response response =  given().
+        File JsonData=new File("src/test/resources/JsonData.json");
+        given().
+                baseUri("https://jsonplaceholder.typicode.com/posts").
+                header("Content-Type","application/json").
                 when().
                 get("https://jsonplaceholder.typicode.com/posts").
+                then().
+                statusCode(200).body("title[39]",equalTo("enim quo cumque"));
 
-        then().extract().response();
-
-        JsonPath obj=new JsonPath(response.asString());
-        assertThat(obj.get("title"),is());
 
     }
 
+
     @Test
     public  void Put(){
-        File jsonData=new File("src//test//resources//putdata.json");
+        File JsonData=new File("src/test/resources/JsonData.json");
 
         given().
                 baseUri("https://reqres.in/api").
-                body(jsonData).
+                body(JsonData).
                 header("Content-Type","application/json").
         when().
                 put("/users").
         then().
-                statusCode(200);
+                statusCode(200).body("name",equalTo("Arun")).body("job",equalTo("Manager"));
     }
 
 }
