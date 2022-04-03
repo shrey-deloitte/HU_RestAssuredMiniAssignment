@@ -21,6 +21,7 @@ public class MiniAssignment2 {
         requestSpecBuilder.setBaseUri("https://jsonplaceholder.typicode.com").
                 addHeader("Content-Type","application/json");
         requestSpecification = RestAssured.with().spec(requestSpecBuilder.build());
+
         RequestSpecBuilder requestSpecBuilder2 = new RequestSpecBuilder();
         requestSpecBuilder2.setBaseUri("https://reqres.in/api").
                 addHeader("Content-Type","application/json");
