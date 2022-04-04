@@ -42,7 +42,7 @@ public class CreateUser {
             String password = javaUtility.getCellvalue(ExcelFilePath, ExcelSheetName, i, 2);
             String age = javaUtility.getCellvalue(ExcelFilePath, ExcelSheetName, i, 3);
 
-            Map bodyParameters = new LinkedHashMap();
+            Map<String,String> bodyParameters = new LinkedHashMap();
 
             bodyParameters.put("name", name);
             bodyParameters.put("email", email);
@@ -51,7 +51,7 @@ public class CreateUser {
 
             Gson gson = new Gson();
             String json = gson.toJson(bodyParameters, LinkedHashMap.class);
-
+            System.out.println(json);
             log.info("User name, email ,password and age added");
 
             Response response = (Response) given().
@@ -59,31 +59,34 @@ public class CreateUser {
                     body(json).
                     when().
                     post("https://api-nodejs-todolist.herokuapp.com/user/register").
-                    then().extract();
-            System.out.println(response.statusCode());
+                    then().statusCode(201).extract();
+            //System.out.println(response.statusCode());
+
+         //   System.out.println("********"+name+email+password+age);
 
 
             log.info("Account registered");
             System.out.println(response.asString());
-            log.info("test");
+          //  log.info("test");
 
             //Validating Credentials
             JSONObject arr = new JSONObject(response.asString());
-            log.info("test1");
+           // System.out.println(arr.getJSONObject("user").get("email"));
+           // log.info("test1");
            // System.out.println();
-          //  assertThat(arr.getJSONObject("user").get("email"),equalTo(email));
+        //  assertThat(arr.getJSONObject("user").get("email"),equalTo(email));
 
-            if(arr.getJSONObject("user").get("email").equals(email))
+           /* if(arr.getJSONObject("user").get("email").equals(email))
             {
                 System.out.println("User login credentials matched");
                 log.info("User login credentials matched");
             }
             else
             {
-                System.out.println("INVALID CREDENTIAL EMAIL DOES NOT MATCHED");
-                log.info("INVALID CREDENTIAL EMAIL DOES NOT MATCHED");
+                System.out.println("User login credentials mismatched");
+                log.info("User login credentials mismatched");
             }
-
+*/
             //STORING THE TOKENS OF USERS WHICH WE ARE REGISTERING
             javaUtility.Tokens.add((String) arr.get("token"));
 

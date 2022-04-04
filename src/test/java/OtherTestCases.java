@@ -22,15 +22,15 @@ public class OtherTestCases {
 
     @Test(priority = 5)
     public void registeringSameUseragain() throws IOException {
-        String Path_Of_Excel_File = "C:\\Users\\shredeshpande\\IdeaProjects\\RestAssuredMiniAssignment\\XLsheets\\DataBase.xlsx";
-        String SHEET_NAME_INSIDE_THE_EXCEL = "database";
+        String ExcelSheetPath = "C:\\Users\\shredeshpande\\IdeaProjects\\RestAssuredMiniAssignment\\XLsheets\\DataBase.xlsx";
+        String ExcelSheetName = "database";
 
         log.info("Registering same user again in order to verify the error");
 
-        String name = javaUtility.getCellvalue(Path_Of_Excel_File, SHEET_NAME_INSIDE_THE_EXCEL, 1, 0);
-        String email = javaUtility.getCellvalue(Path_Of_Excel_File, SHEET_NAME_INSIDE_THE_EXCEL, 1, 1);
-        String password = javaUtility.getCellvalue(Path_Of_Excel_File, SHEET_NAME_INSIDE_THE_EXCEL, 1, 2);
-        String age = javaUtility.getCellvalue(Path_Of_Excel_File, SHEET_NAME_INSIDE_THE_EXCEL, 1, 3);
+        String name = javaUtility.getCellvalue(ExcelSheetPath, ExcelSheetName, 1, 0);
+        String email = javaUtility.getCellvalue(ExcelSheetPath, ExcelSheetName, 1, 1);
+        String password = javaUtility.getCellvalue(ExcelSheetPath, ExcelSheetName, 1, 2);
+        String age = javaUtility.getCellvalue(ExcelSheetPath, ExcelSheetName, 1, 3);
 
         Map bodyParameters = new LinkedHashMap();
 
@@ -111,7 +111,7 @@ public class OtherTestCases {
     }
 
 
-    @Test(priority = 7) //Adding Tassk
+    @Test(priority = 7)
     public void wrongRequestBody()
     {
         String Getting_Token = javaUtility.Tokens.get(0);

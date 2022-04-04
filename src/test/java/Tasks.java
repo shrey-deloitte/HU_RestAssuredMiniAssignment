@@ -31,7 +31,7 @@ public class Tasks {
     @Test(priority = 3)
     public void addTasks() throws IOException {
 
-        log.info("Adding 20 Tasks");
+        log.info("Adding Tasks");
         int rowCount = javaUtility.getRowCount(ExcelFilePath, ExcelSheetName);
 
         System.out.println(rowCount);
@@ -68,8 +68,7 @@ public class Tasks {
 
 
             System.out.println(arr.getJSONObject("data").get("description"));
-            //IF DESCRIPTION MISS MATCHES WITH OUR DATA THAT WE HAVE PROVIDE FOR THE DESCRIPTION
-            //boolean variable will become false else it will remain true
+
             if(arr.getJSONObject("data").get("description").equals(Task))
             {
                 validating_tasks =true;
@@ -88,7 +87,7 @@ public class Tasks {
         log.info("Validating paging");
 
         int num = 2;
-        for(int j = 0; j<=3; j++){
+        for(int j = 0; j<3; j++){
 
             String token = javaUtility.Tokens.get(0);
             Response response = given().baseUri("https://api-nodejs-todolist.herokuapp.com/task").
@@ -102,16 +101,19 @@ public class Tasks {
 
             int Count = (int)arr.get("count");
 
-            if (num == Count && num==2){    //Response body contains count must be equal to our num
-                System.out.println("pagination with limit 2 checked");
+            if (num == Count && num==2){
+                System.out.println();
+                log.info("pagination with limit 2 checked");
                 num = 5;
             }
             if (num == Count && num==5){
                 System.out.println("pagination with limit 5 checked");
+                log.info("pagination with limit 5 checked");
                 num = 10;
             }
             if (num== Count && num==10) {
                 System.out.println("pagination with limit 10 checked");
+                log.info("pagination with limit 10 checked");
                 assertTrue(true);
             }
         }
