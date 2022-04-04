@@ -21,7 +21,7 @@ public class OtherTestCases {
     private static Logger log  = LogManager.getLogger(Tasks.class);
 
     @Test(priority = 5)
-    public void registering_Same_user_again() throws IOException {
+    public void registeringSameUseragain() throws IOException {
         String Path_Of_Excel_File = "C:\\Users\\shredeshpande\\IdeaProjects\\RestAssuredMiniAssignment\\XLsheets\\DataBase.xlsx";
         String SHEET_NAME_INSIDE_THE_EXCEL = "database";
 

@@ -1,0 +1,1550 @@
+[INFO ] 2022-04-04 12:29:53.792 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:29:53.868 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:53.870 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:53.870 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:29:53.953 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:29:53.953 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:29:53.953 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:29:53.970 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:29:53.970 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:29:53.970 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:29:53.970 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:29:53.970 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:29:53.970 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:29:53.970 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:29:53.986 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:29:53.986 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:29:53.986 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:29:53.986 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:29:54.019 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:29:54.019 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:29:54.051 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:29:54.051 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:29:54.051 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:29:54.068 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:29:54.084 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:29:54.084 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:29:54.092 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:29:54.092 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:29:54.092 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:29:54.092 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:29:54.092 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:29:54.092 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:29:54.092 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:29:54.092 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:29:54.108 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:29:54.108 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:29:54.108 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:29:54.108 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:29:54.108 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:29:54.108 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:29:54.124 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:29:54.124 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:29:54.124 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:29:54.140 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:54.140 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:54.140 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:54.156 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:29:54.156 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:29:54.172 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:54.173 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:54.173 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:54.173 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:29:54.189 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:54.192 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:54.192 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:54.192 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:29:54.208 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:29:54.208 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:29:54.208 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:29:54.208 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:54.208 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:54.224 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:54.224 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:29:54.252 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:29:56.998 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:29:57.014 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:29:57.014 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:29:57.014 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:29:57.015 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:57.015 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:57.015 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:57.019 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:29:57.019 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:57.019 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:57.019 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:57.019 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:29:57.036 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:57.036 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:57.036 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:57.036 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:29:57.052 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:57.052 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:57.052 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:57.052 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:29:57.052 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:29:58.265 [main] UserLogin - LOGGING IN
+[DEBUG] 2022-04-04 12:29:58.269 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:58.269 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:58.269 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:58.269 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:29:58.269 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:58.269 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:58.269 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:58.285 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:29:58.285 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:29:58.285 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:29:58.285 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:29:58.285 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:29:58.285 [main] UserLogin - Entered id and password
+[INFO ] 2022-04-04 12:30:00.004 [main] Tasks - Adding 20 Tasks
+[DEBUG] 2022-04-04 12:30:00.004 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:00.004 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:00.004 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:00.020 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:30:00.027 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:00.027 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:00.028 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:00.030 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:01.684 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:30:01.684 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:01.684 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:01.684 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:01.700 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:03.378 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:30:03.394 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:03.394 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:03.394 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:03.394 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:05.115 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:30:05.115 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:05.115 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:05.115 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:05.115 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:06.817 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:30:06.832 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:06.832 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:06.832 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:06.838 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:08.536 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:30:08.541 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:08.541 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:08.541 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:08.541 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:10.292 [main] Tasks - task added
+[INFO ] 2022-04-04 12:30:10.308 [main] Tasks - Validating paging
+[INFO ] 2022-04-04 12:30:17.109 [main] Tasks - Validating tasks
+[DEBUG] 2022-04-04 12:30:17.109 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:17.109 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:17.109 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:17.125 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:30:17.125 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:17.125 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:17.125 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:17.125 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:19.098 [main] Tasks - Task1 added validated
+[DEBUG] 2022-04-04 12:30:19.114 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:19.114 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:19.114 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:19.120 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:20.851 [main] Tasks - Task2 added validated
+[DEBUG] 2022-04-04 12:30:20.867 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:20.867 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:20.867 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:20.871 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:22.523 [main] Tasks - Task3 added validated
+[DEBUG] 2022-04-04 12:30:22.523 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:22.523 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:22.523 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:22.523 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:24.212 [main] Tasks - Task4 added validated
+[DEBUG] 2022-04-04 12:30:24.212 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:24.212 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:24.212 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:24.212 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:25.984 [main] Tasks - Task5 added validated
+[DEBUG] 2022-04-04 12:30:25.984 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:25.984 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:25.984 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:25.984 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:27.804 [main] Tasks - Task6 added validated
+[INFO ] 2022-04-04 12:30:27.804 [main] Tasks - Registering same user again in order to verify the error
+[DEBUG] 2022-04-04 12:30:27.804 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:27.804 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:27.804 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:27.804 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:30:27.804 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:27.804 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:27.804 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:27.820 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:30:27.820 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:27.820 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:27.820 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:27.820 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:30:27.820 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:27.820 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:27.820 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:27.820 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:27.836 [main] Tasks - User name, email ,password and age added
+[INFO ] 2022-04-04 12:30:29.355 [main] Tasks - "E11000 duplicate key error collection: todo-list.users index: email_1 dup key: { email: \"ar1112t432er14p@gmail.com\" }"
+[INFO ] 2022-04-04 12:30:29.355 [main] Tasks - Logging in with the wrong id and password
+[DEBUG] 2022-04-04 12:30:29.355 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:29.355 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:29.370 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:29.370 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:30:29.370 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:30:29.370 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:30:29.370 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:30:29.370 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:30:29.370 [main] Tasks - Entered id and password
+[INFO ] 2022-04-04 12:30:30.774 [main] Tasks - "Unable to login"
+[INFO ] 2022-04-04 12:30:30.774 [main] Tasks - Trying to add task but with the wrong request body
+[INFO ] 2022-04-04 12:30:31.998 [main] Tasks - <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Bad Request</pre>
+</body>
+</html>
+
+[INFO ] 2022-04-04 12:35:23.442 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:35:23.518 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:23.519 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:23.520 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:35:23.636 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:35:23.638 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:35:23.639 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:35:23.639 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:35:23.640 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:35:23.642 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:35:23.652 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:35:23.653 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:35:23.657 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:35:23.658 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:35:23.658 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:35:23.659 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:35:23.660 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:35:23.660 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:35:23.708 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:35:23.708 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:35:23.746 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:35:23.750 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:35:23.752 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:35:23.753 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:35:23.757 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:35:23.758 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:35:23.759 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:35:23.761 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:35:23.762 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:35:23.763 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:35:23.765 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:35:23.766 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:35:23.768 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:35:23.769 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:35:23.772 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:35:23.777 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:35:23.785 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:35:23.785 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:35:23.788 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:35:23.790 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:35:23.791 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:35:23.792 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:35:23.793 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:35:23.797 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:35:23.800 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:35:23.801 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:35:23.804 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:35:23.807 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:35:23.816 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:35:23.819 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:35:23.830 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:35:23.832 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:35:23.835 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:35:23.843 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:23.844 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:23.844 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:23.854 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:35:23.862 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:35:23.875 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:23.876 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:23.877 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:23.886 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:23.894 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:23.894 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:23.895 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:23.902 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:35:23.910 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:35:23.911 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:35:23.913 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:35:23.921 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:23.921 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:23.922 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:23.927 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:23.965 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:35:26.705 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:35:26.718 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:35:26.719 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:35:26.719 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:35:26.722 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:26.722 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:26.723 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:26.727 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:26.739 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:26.740 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:26.740 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:26.746 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:26.753 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:26.754 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:26.754 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:26.760 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:26.768 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:26.768 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:26.769 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:26.773 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:26.776 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:35:27.998 [main] UserLogin - LOGGING IN
+[DEBUG] 2022-04-04 12:35:28.005 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:28.005 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:28.006 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:28.012 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:28.017 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:28.018 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:28.018 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:28.022 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:28.028 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:28.029 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:28.029 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:28.033 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:28.036 [main] UserLogin - Entered id and password
+[INFO ] 2022-04-04 12:35:29.785 [main] Tasks - Adding 20 Tasks
+[DEBUG] 2022-04-04 12:35:29.789 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:29.790 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:29.790 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:29.795 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:29.799 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:29.800 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:29.800 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:29.804 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:31.703 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:35:31.707 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:31.707 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:31.708 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:31.711 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:33.399 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:35:33.402 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:33.403 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:33.403 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:33.411 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:35.076 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:35:35.079 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:35.080 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:35.080 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:35.084 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:36.743 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:35:36.745 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:36.746 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:36.746 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:36.750 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:38.340 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:35:38.342 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:38.343 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:38.343 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:38.346 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:39.984 [main] Tasks - task added
+[INFO ] 2022-04-04 12:35:40.013 [main] Tasks - Validating paging
+[INFO ] 2022-04-04 12:35:46.851 [main] Tasks - Validating tasks
+[DEBUG] 2022-04-04 12:35:46.855 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:46.856 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:46.856 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:46.859 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:46.867 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:46.867 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:46.867 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:46.871 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:48.993 [main] Tasks - Task1 added validated
+[DEBUG] 2022-04-04 12:35:48.996 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:48.997 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:48.997 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:49.002 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:50.688 [main] Tasks - Task2 added validated
+[DEBUG] 2022-04-04 12:35:50.690 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:50.690 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:50.691 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:50.695 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:52.345 [main] Tasks - Task3 added validated
+[DEBUG] 2022-04-04 12:35:52.347 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:52.347 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:52.347 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:52.350 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:54.124 [main] Tasks - Task4 added validated
+[DEBUG] 2022-04-04 12:35:54.127 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:54.128 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:54.128 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:54.133 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:55.778 [main] Tasks - Task5 added validated
+[DEBUG] 2022-04-04 12:35:55.780 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:55.780 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:55.781 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:55.783 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:57.574 [main] Tasks - Task6 added validated
+[INFO ] 2022-04-04 12:35:57.575 [main] Tasks - Registering same user again in order to verify the error
+[DEBUG] 2022-04-04 12:35:57.579 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:57.579 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:57.579 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:57.582 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:57.586 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:57.586 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:57.587 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:57.589 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:57.593 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:57.593 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:57.594 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:57.597 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:57.602 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:57.602 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:57.602 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:57.606 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:57.609 [main] Tasks - User name, email ,password and age added
+[INFO ] 2022-04-04 12:35:59.001 [main] Tasks - "E11000 duplicate key error collection: todo-list.users index: email_1 dup key: { email: \"ar1112t43r2er14p@gmail.com\" }"
+[INFO ] 2022-04-04 12:35:59.003 [main] Tasks - Logging in with the wrong id and password
+[DEBUG] 2022-04-04 12:35:59.006 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:59.006 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:59.007 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:59.009 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:35:59.013 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:35:59.013 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:35:59.013 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:35:59.016 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:35:59.018 [main] Tasks - Entered id and password
+[INFO ] 2022-04-04 12:36:00.464 [main] Tasks - "Unable to login"
+[INFO ] 2022-04-04 12:36:00.466 [main] Tasks - Trying to add task but with the wrong request body
+[INFO ] 2022-04-04 12:36:01.662 [main] Tasks - <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Bad Request</pre>
+</body>
+</html>
+
+[INFO ] 2022-04-04 12:37:54.174 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:37:54.252 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:54.254 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:54.255 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:37:54.368 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:37:54.371 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:37:54.372 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:37:54.373 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:37:54.373 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:37:54.375 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:37:54.386 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:37:54.386 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:37:54.390 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:37:54.391 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:37:54.392 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:37:54.392 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:37:54.394 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:37:54.394 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:37:54.443 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:37:54.443 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:37:54.480 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:37:54.484 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:37:54.486 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:37:54.487 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:37:54.491 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:37:54.492 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:37:54.494 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:37:54.495 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:37:54.497 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:37:54.498 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:37:54.500 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:37:54.501 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:37:54.502 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:37:54.503 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:37:54.505 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:37:54.510 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:37:54.517 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:37:54.518 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:37:54.520 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:37:54.522 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:37:54.523 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:37:54.524 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:37:54.525 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:37:54.529 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:37:54.536 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:37:54.538 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:37:54.541 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:37:54.545 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:37:54.548 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:37:54.551 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:37:54.561 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:37:54.562 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:37:54.566 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:37:54.573 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:54.574 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:54.574 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:54.583 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:37:54.589 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:37:54.597 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:54.598 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:54.598 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:54.605 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:37:54.616 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:54.618 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:54.619 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:54.626 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:37:54.637 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:37:54.639 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:37:54.642 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:37:54.652 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:54.653 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:54.654 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:54.663 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:37:54.710 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:37:57.589 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:37:57.609 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:37:57.609 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:37:57.609 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:37:57.613 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:57.613 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:57.614 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:57.618 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:37:57.625 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:57.626 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:57.626 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:57.631 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:37:57.637 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:57.638 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:57.638 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:57.643 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:37:57.648 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:57.649 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:57.649 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:57.653 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:37:57.655 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:37:58.833 [main] UserLogin - LOGGING IN
+[DEBUG] 2022-04-04 12:37:58.837 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:58.837 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:58.837 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:58.841 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:37:58.847 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:58.847 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:58.848 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:58.852 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:37:58.856 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:37:58.857 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:37:58.857 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:37:58.863 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:37:58.870 [main] UserLogin - Entered id and password
+[INFO ] 2022-04-04 12:38:01.190 [main] Tasks - Adding 20 Tasks
+[DEBUG] 2022-04-04 12:38:01.195 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:01.195 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:01.196 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:01.199 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:38:01.204 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:01.205 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:01.205 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:01.208 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:02.891 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:38:02.894 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:02.895 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:02.895 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:02.900 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:04.568 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:38:04.572 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:04.572 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:04.572 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:04.582 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:06.275 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:38:06.278 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:06.279 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:06.279 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:06.283 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:08.002 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:38:08.007 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:08.008 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:08.008 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:08.014 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:09.671 [main] Tasks - task added
+[DEBUG] 2022-04-04 12:38:09.675 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:09.675 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:09.675 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:09.679 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:11.461 [main] Tasks - task added
+[INFO ] 2022-04-04 12:38:11.488 [main] Tasks - Validating paging
+[INFO ] 2022-04-04 12:38:18.255 [main] Tasks - Validating tasks
+[DEBUG] 2022-04-04 12:38:18.257 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:18.258 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:18.258 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:18.263 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:38:18.266 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:18.266 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:18.267 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:18.270 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:20.299 [main] Tasks - Task1 added validated
+[DEBUG] 2022-04-04 12:38:20.302 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:20.302 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:20.302 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:20.306 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:22.018 [main] Tasks - Task2 added validated
+[DEBUG] 2022-04-04 12:38:22.020 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:22.020 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:22.021 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:22.024 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:23.673 [main] Tasks - Task3 added validated
+[DEBUG] 2022-04-04 12:38:23.675 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:23.675 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:23.676 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:23.679 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:25.393 [main] Tasks - Task4 added validated
+[DEBUG] 2022-04-04 12:38:25.395 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:25.395 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:25.396 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:25.398 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:27.115 [main] Tasks - Task5 added validated
+[DEBUG] 2022-04-04 12:38:27.118 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:27.119 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:27.119 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:27.123 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:28.923 [main] Tasks - Task6 added validated
+[INFO ] 2022-04-04 12:38:28.925 [main] Tasks - Registering same user again in order to verify the error
+[DEBUG] 2022-04-04 12:38:28.928 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:28.928 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:28.928 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:28.931 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:38:28.935 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:28.936 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:28.936 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:28.939 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:38:28.943 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:28.943 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:28.944 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:28.948 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:38:28.952 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:28.953 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:28.953 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:28.956 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:28.961 [main] Tasks - User name, email ,password and age added
+[INFO ] 2022-04-04 12:38:30.549 [main] Tasks - "E11000 duplicate key error collection: todo-list.users index: email_1 dup key: { email: \"ar1112tr43r2er14p@gmail.com\" }"
+[INFO ] 2022-04-04 12:38:30.550 [main] Tasks - Logging in with the wrong id and password
+[DEBUG] 2022-04-04 12:38:30.553 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:30.553 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:30.554 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:30.556 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:38:30.559 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:38:30.559 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:38:30.559 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:38:30.562 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:38:30.564 [main] Tasks - Entered id and password
+[INFO ] 2022-04-04 12:38:32.294 [main] Tasks - "Unable to login"
+[INFO ] 2022-04-04 12:38:32.296 [main] Tasks - Trying to add task but with the wrong request body
+[INFO ] 2022-04-04 12:38:33.535 [main] Tasks - <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Bad Request</pre>
+</body>
+</html>
+
+[INFO ] 2022-04-04 12:39:06.210 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:39:06.303 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:06.305 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:06.306 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:39:06.413 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:39:06.416 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:39:06.417 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:39:06.421 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:39:06.422 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:39:06.423 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:39:06.433 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:39:06.433 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:39:06.436 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:39:06.437 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:39:06.437 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:39:06.438 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:39:06.438 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:39:06.438 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:39:06.479 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:39:06.480 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:39:06.524 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:39:06.528 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:39:06.531 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:39:06.532 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:39:06.537 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:39:06.538 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:39:06.539 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:39:06.542 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:39:06.545 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:39:06.547 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:39:06.548 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:39:06.549 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:39:06.551 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:39:06.552 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:39:06.554 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:39:06.559 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:39:06.566 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:39:06.567 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:39:06.571 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:39:06.574 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:39:06.576 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:39:06.577 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:39:06.578 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:39:06.581 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:39:06.583 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:39:06.585 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:39:06.588 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:39:06.592 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:39:06.596 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:39:06.599 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:39:06.606 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:39:06.608 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:39:06.612 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:39:06.625 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:06.626 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:06.626 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:06.635 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:39:06.642 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:39:06.650 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:06.651 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:06.652 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:06.659 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:39:06.669 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:06.670 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:06.670 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:06.678 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:39:06.684 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:39:06.686 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:39:06.688 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:39:06.694 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:06.695 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:06.695 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:06.702 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:39:06.732 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:39:09.540 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:39:09.560 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:39:09.561 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:39:09.561 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:39:09.564 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:09.565 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:09.565 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:09.571 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:39:09.579 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:09.580 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:09.580 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:09.584 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:39:09.590 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:09.591 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:09.591 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:09.596 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:39:09.603 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:09.604 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:09.604 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:09.610 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:39:09.613 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:39:39.112 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:39:39.197 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:39.198 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:39.199 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:39:39.307 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:39:39.308 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:39:39.309 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:39:39.310 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:39:39.310 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:39:39.311 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:39:39.320 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:39:39.321 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:39:39.323 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:39:39.324 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:39:39.324 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:39:39.324 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:39:39.325 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:39:39.325 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:39:39.370 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:39:39.370 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:39:39.409 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:39:39.415 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:39:39.418 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:39:39.419 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:39:39.422 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:39:39.423 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:39:39.424 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:39:39.425 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:39:39.426 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:39:39.427 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:39:39.429 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:39:39.430 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:39:39.430 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:39:39.432 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:39:39.434 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:39:39.438 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:39:39.445 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:39:39.446 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:39:39.448 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:39:39.450 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:39:39.451 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:39:39.452 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:39:39.453 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:39:39.455 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:39:39.458 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:39:39.460 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:39:39.463 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:39:39.472 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:39:39.476 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:39:39.479 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:39:39.486 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:39:39.487 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:39:39.491 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:39:39.497 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:39.498 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:39.498 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:39.505 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:39:39.510 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:39:39.523 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:39.524 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:39.525 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:39.534 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:39:39.542 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:39.543 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:39.543 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:39.551 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:39:39.560 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:39:39.563 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:39:39.564 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:39:39.573 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:39:39.574 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:39:39.574 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:39:39.579 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:39:39.607 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:40:18.773 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:40:18.853 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:40:18.854 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:40:18.855 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:40:18.975 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:40:18.977 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:40:18.978 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:40:18.979 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:40:18.979 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:40:18.980 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:40:18.988 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:40:18.989 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:40:18.992 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:40:18.993 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:40:18.993 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:40:18.994 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:40:18.994 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:40:18.995 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:40:19.047 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:40:19.047 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:40:19.085 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:40:19.088 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:40:19.090 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:40:19.092 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:40:19.095 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:40:19.096 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:40:19.097 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:40:19.098 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:40:19.099 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:40:19.100 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:40:19.102 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:40:19.103 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:40:19.104 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:40:19.105 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:40:19.107 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:40:19.110 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:40:19.118 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:40:19.119 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:40:19.121 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:40:19.124 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:40:19.125 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:40:19.126 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:40:19.127 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:40:19.130 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:40:19.132 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:40:19.134 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:40:19.136 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:40:19.140 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:40:19.144 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:40:19.149 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:40:19.160 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:40:19.162 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:40:19.166 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:40:19.173 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:40:19.174 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:40:19.174 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:40:19.183 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:40:19.190 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:40:19.198 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:40:19.199 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:40:19.199 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:40:19.214 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:40:19.222 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:40:19.223 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:40:19.223 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:40:19.229 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:40:19.237 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:40:19.239 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:40:19.241 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:40:19.247 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:40:19.248 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:40:19.248 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:40:19.253 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:40:19.280 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:40:21.925 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:40:21.939 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:40:21.939 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:40:21.939 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:40:21.942 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:40:21.943 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:40:21.943 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:40:21.949 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:40:21.959 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:40:21.960 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:40:21.960 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:40:21.966 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:40:21.972 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:40:21.973 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:40:21.973 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:40:21.978 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:40:21.985 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:40:21.985 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:40:21.986 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:40:21.992 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:40:21.995 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:41:22.717 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:41:22.800 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:41:22.802 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:41:22.802 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:41:22.920 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:41:22.924 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:41:22.925 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:41:22.926 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:41:22.927 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:41:22.928 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:41:22.937 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:41:22.937 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:41:22.941 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:41:22.941 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:41:22.942 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:41:22.942 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:41:22.943 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:41:22.943 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:41:22.988 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:41:22.988 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:41:23.018 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:41:23.021 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:41:23.023 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:41:23.024 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:41:23.027 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:41:23.028 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:41:23.029 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:41:23.030 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:41:23.032 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:41:23.033 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:41:23.036 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:41:23.037 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:41:23.038 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:41:23.040 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:41:23.042 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:41:23.046 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:41:23.054 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:41:23.057 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:41:23.061 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:41:23.064 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:41:23.065 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:41:23.066 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:41:23.067 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:41:23.070 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:41:23.072 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:41:23.074 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:41:23.076 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:41:23.081 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:41:23.085 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:41:23.088 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:41:23.097 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:41:23.099 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:41:23.107 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:41:23.117 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:41:23.119 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:41:23.120 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:41:23.129 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:41:23.137 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:41:23.147 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:41:23.148 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:41:23.149 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:41:23.157 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:41:23.167 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:41:23.168 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:41:23.168 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:41:23.175 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:41:23.183 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:41:23.186 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:41:23.189 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:41:23.199 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:41:23.199 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:41:23.200 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:41:23.207 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:41:23.241 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:41:26.015 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:41:26.028 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:41:26.028 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:41:26.028 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:41:26.032 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:41:26.032 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:41:26.033 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:41:26.040 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:41:26.047 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:41:26.047 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:41:26.049 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:41:26.059 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:41:26.068 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:41:26.069 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:41:26.070 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:41:26.075 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:41:26.084 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:41:26.085 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:41:26.085 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:41:26.090 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:41:26.092 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:41:27.309 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:44:59.604 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:44:59.689 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:44:59.692 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:44:59.693 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:44:59.809 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:44:59.811 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:44:59.812 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:44:59.812 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:44:59.813 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:44:59.816 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:44:59.829 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:44:59.830 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:44:59.832 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:44:59.833 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:44:59.833 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:44:59.834 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:44:59.834 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:44:59.835 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:44:59.870 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:44:59.871 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:44:59.908 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:44:59.912 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:44:59.915 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:44:59.917 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:44:59.920 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:44:59.921 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:44:59.922 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:44:59.923 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:44:59.924 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:44:59.925 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:44:59.927 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:44:59.928 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:44:59.928 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:44:59.930 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:44:59.933 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:44:59.937 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:44:59.944 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:44:59.945 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:44:59.951 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:44:59.955 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:44:59.957 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:44:59.958 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:44:59.960 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:44:59.964 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:44:59.967 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:44:59.969 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:44:59.972 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:44:59.975 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:44:59.980 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:44:59.983 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:44:59.991 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:44:59.992 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:44:59.996 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:45:00.003 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:00.004 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:00.004 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:00.020 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:45:00.038 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:45:00.050 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:00.051 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:00.051 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:00.059 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:45:00.069 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:00.069 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:00.071 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:00.081 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:45:00.096 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:45:00.099 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:45:00.101 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:45:00.110 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:00.110 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:00.111 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:00.116 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:45:00.150 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:45:02.882 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:45:02.896 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:45:02.896 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:45:02.896 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:45:02.899 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:02.899 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:02.900 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:02.907 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:45:02.914 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:02.915 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:02.915 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:02.919 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:45:02.927 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:02.927 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:02.927 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:02.932 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:45:02.938 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:02.938 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:02.939 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:02.942 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:45:02.945 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:45:04.661 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:45:04.663 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:45:04.663 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:45:04.663 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:45:04.666 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:04.667 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:04.668 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:04.672 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:45:04.678 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:04.678 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:04.678 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:04.682 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:45:04.695 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:04.695 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:04.696 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:04.701 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:45:04.707 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:45:04.708 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:45:04.708 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:45:04.715 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:45:04.718 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:45:05.947 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:46:42.188 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:46:42.274 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:42.275 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:42.277 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:46:42.415 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:46:42.418 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:46:42.419 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:46:42.421 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:46:42.422 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:46:42.423 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:46:42.434 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:46:42.436 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:46:42.447 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:46:42.448 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:46:42.449 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:46:42.450 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:46:42.450 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:46:42.451 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:46:42.498 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:46:42.499 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:46:42.562 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:46:42.569 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:46:42.579 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:46:42.582 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:46:42.588 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:46:42.589 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:46:42.590 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:46:42.592 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:46:42.594 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:46:42.595 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:46:42.597 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:46:42.599 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:46:42.601 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:46:42.604 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:46:42.606 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:46:42.611 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:46:42.620 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:46:42.621 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:46:42.623 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:46:42.626 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:46:42.628 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:46:42.629 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:46:42.630 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:46:42.633 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:46:42.639 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:46:42.643 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:46:42.646 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:46:42.650 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:46:42.657 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:46:42.661 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:46:42.669 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:46:42.670 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:46:42.674 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:46:42.681 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:42.681 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:42.682 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:42.691 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:46:42.697 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:46:42.712 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:42.714 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:42.715 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:42.726 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:46:42.736 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:42.737 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:42.738 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:42.744 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:46:42.754 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:46:42.757 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:46:42.759 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:46:42.767 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:42.775 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:42.777 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:42.785 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:46:42.819 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:46:45.803 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:46:45.815 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:46:45.815 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:46:45.815 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:46:45.820 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:45.821 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:45.821 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:45.827 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:46:45.836 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:45.837 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:45.837 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:45.846 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:46:45.855 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:45.856 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:45.856 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:45.867 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:46:45.874 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:45.875 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:45.875 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:45.880 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:46:45.883 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:46:47.580 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:46:47.581 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:46:47.581 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:46:47.581 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:46:47.586 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:47.586 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:47.587 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:47.595 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:46:47.601 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:47.602 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:47.602 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:47.606 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:46:47.611 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:47.612 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:47.612 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:47.619 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:46:47.624 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:46:47.624 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:46:47.624 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:46:47.628 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:46:47.630 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:46:48.906 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:48:41.583 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:48:41.666 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:48:41.668 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:48:41.668 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:48:41.780 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:48:41.782 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:48:41.782 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:48:41.783 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:48:41.783 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:48:41.784 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:48:41.793 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:48:41.795 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:48:41.801 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:48:41.801 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:48:41.802 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:48:41.802 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:48:41.803 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:48:41.803 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:48:41.840 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:48:41.841 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:48:41.879 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:48:41.882 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:48:41.884 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:48:41.886 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:48:41.890 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:48:41.891 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:48:41.892 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:48:41.893 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:48:41.894 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:48:41.896 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:48:41.897 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:48:41.898 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:48:41.899 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:48:41.900 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:48:41.902 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:48:41.907 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:48:41.916 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:48:41.917 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:48:41.919 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:48:41.922 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:48:41.923 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:48:41.924 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:48:41.925 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:48:41.929 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:48:41.935 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:48:41.937 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:48:41.940 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:48:41.943 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:48:41.948 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:48:41.950 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:48:41.960 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:48:41.962 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:48:41.965 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:48:41.972 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:48:41.974 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:48:41.978 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:48:41.990 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:48:41.997 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:48:42.005 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:48:42.006 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:48:42.006 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:48:42.013 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:48:42.022 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:48:42.023 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:48:42.024 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:48:42.031 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:48:42.045 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:48:42.048 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:48:42.050 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:48:42.058 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:48:42.059 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:48:42.059 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:48:42.063 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:48:42.096 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:48:44.898 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:48:44.916 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:48:44.916 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:48:44.916 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:48:44.921 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:48:44.924 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:48:44.924 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:48:44.931 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:48:44.942 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:48:44.943 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:48:44.943 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:48:44.949 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:48:44.957 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:48:44.958 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:48:44.958 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:48:44.965 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:48:44.972 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:48:44.972 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:48:44.972 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:48:44.978 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:48:44.980 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:48:46.251 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:50:11.867 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:50:11.948 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:50:11.949 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:50:11.950 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:50:12.065 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:50:12.067 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:50:12.067 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:50:12.068 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:50:12.069 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:50:12.070 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:50:12.080 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:50:12.081 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:50:12.084 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:50:12.084 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:50:12.085 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:50:12.085 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:50:12.085 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:50:12.086 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:50:12.124 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:50:12.124 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:50:12.159 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:50:12.164 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:50:12.170 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:50:12.172 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:50:12.175 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:50:12.178 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:50:12.179 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:50:12.180 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:50:12.182 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:50:12.183 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:50:12.185 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:50:12.185 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:50:12.186 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:50:12.188 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:50:12.190 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:50:12.194 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:50:12.202 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:50:12.203 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:50:12.205 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:50:12.207 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:50:12.208 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:50:12.209 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:50:12.210 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:50:12.212 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:50:12.215 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:50:12.216 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:50:12.219 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:50:12.222 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:50:12.226 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:50:12.230 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:50:12.243 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:50:12.244 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:50:12.248 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:50:12.254 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:50:12.255 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:50:12.255 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:50:12.266 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:50:12.273 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:50:12.281 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:50:12.282 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:50:12.282 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:50:12.290 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:50:12.303 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:50:12.304 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:50:12.305 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:50:12.312 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:50:12.320 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:50:12.323 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:50:12.324 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:50:12.330 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:50:12.331 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:50:12.331 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:50:12.336 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:50:12.363 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:50:15.186 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:50:15.198 [main] CreateUser - test
+[INFO ] 2022-04-04 12:50:15.201 [main] CreateUser - test1
+[INFO ] 2022-04-04 12:50:15.201 [main] CreateUser - User login credentials matched
+[INFO ] 2022-04-04 12:50:15.201 [main] CreateUser - Stored tokens
+[INFO ] 2022-04-04 12:50:15.201 [main] CreateUser - Stored ID
+[DEBUG] 2022-04-04 12:50:15.204 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:50:15.205 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:50:15.205 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:50:15.209 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:50:15.215 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:50:15.216 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:50:15.216 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:50:15.220 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:50:15.226 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:50:15.226 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:50:15.226 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:50:15.237 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:50:15.245 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:50:15.246 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:50:15.246 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:50:15.250 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:50:15.253 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:50:16.490 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:50:16.491 [main] CreateUser - test
+[INFO ] 2022-04-04 12:52:25.889 [main] CreateUser - User credentials fetched
+[DEBUG] 2022-04-04 12:52:25.970 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:52:25.972 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:52:25.974 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2022-04-04 12:52:26.089 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:52:26.091 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:52:26.092 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:52:26.092 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:52:26.093 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:52:26.093 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:52:26.101 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2022-04-04 12:52:26.102 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:52:26.105 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2022-04-04 12:52:26.105 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:52:26.106 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2022-04-04 12:52:26.106 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:52:26.107 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2022-04-04 12:52:26.107 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:52:26.152 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2022-04-04 12:52:26.154 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2022-04-04 12:52:26.188 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2022-04-04 12:52:26.191 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2022-04-04 12:52:26.194 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2022-04-04 12:52:26.200 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2022-04-04 12:52:26.203 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2022-04-04 12:52:26.204 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2022-04-04 12:52:26.205 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2022-04-04 12:52:26.207 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2022-04-04 12:52:26.210 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2022-04-04 12:52:26.211 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2022-04-04 12:52:26.213 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2022-04-04 12:52:26.214 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2022-04-04 12:52:26.215 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2022-04-04 12:52:26.217 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2022-04-04 12:52:26.219 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2022-04-04 12:52:26.223 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2022-04-04 12:52:26.231 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:52:26.232 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2022-04-04 12:52:26.234 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2022-04-04 12:52:26.236 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2022-04-04 12:52:26.237 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2022-04-04 12:52:26.238 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2022-04-04 12:52:26.239 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2022-04-04 12:52:26.242 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2022-04-04 12:52:26.245 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2022-04-04 12:52:26.246 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2022-04-04 12:52:26.249 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2022-04-04 12:52:26.252 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2022-04-04 12:52:26.256 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2022-04-04 12:52:26.259 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2022-04-04 12:52:26.271 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2022-04-04 12:52:26.276 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2022-04-04 12:52:26.280 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2022-04-04 12:52:26.286 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:52:26.287 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:52:26.287 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:52:26.297 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:52:26.305 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2022-04-04 12:52:26.312 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:52:26.313 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:52:26.314 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:52:26.322 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:52:26.338 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:52:26.338 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:52:26.339 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:52:26.348 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2022-04-04 12:52:26.356 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2022-04-04 12:52:26.359 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2022-04-04 12:52:26.361 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2022-04-04 12:52:26.367 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:52:26.368 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:52:26.368 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:52:26.374 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:52:26.406 [main] CreateUser - User name, email ,password and age added
+[INFO ] 2022-04-04 12:52:29.171 [main] CreateUser - Account registered
+[INFO ] 2022-04-04 12:52:29.183 [main] CreateUser - VALID CREDENTIALS EMAIL GOT MATCHED
+[INFO ] 2022-04-04 12:52:29.183 [main] CreateUser - Storing Token Generated in dynamic array1
+[INFO ] 2022-04-04 12:52:29.183 [main] CreateUser - Storing unique id Generated in dynamic array2
+[DEBUG] 2022-04-04 12:52:29.186 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:52:29.187 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:52:29.187 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:52:29.191 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:52:29.197 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:52:29.198 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:52:29.198 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:52:29.202 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:52:29.208 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:52:29.208 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:52:29.208 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:52:29.213 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2022-04-04 12:52:29.223 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2022-04-04 12:52:29.223 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2022-04-04 12:52:29.224 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2022-04-04 12:52:29.228 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2022-04-04 12:52:29.230 [main] CreateUser - User name, email ,password and age added
