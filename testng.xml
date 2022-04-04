@@ -3,8 +3,10 @@
 <suite name="Suite1" verbose="1" >
     <test name="launch"   >
         <classes>
-            <class name="Create_User"/>
-            <class name="Login_userValidation"/>
+            <class name="CreateUser"/>
+            <class name="UserLogin"/>
+            <class name="Tasks"/>
+            <class name="OtherTestCases"/>
 
         </classes>
     </test>

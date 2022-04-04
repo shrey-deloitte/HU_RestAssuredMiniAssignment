@@ -11,17 +11,18 @@ import java.util.ArrayList;
 public class javaUtility {
 
     //This ArrayList will store the tokens of every new registered users
-    static   public ArrayList<String> STORING_TOKENS_HERE = new ArrayList<>();
+    static   public ArrayList<String> Tokens = new ArrayList<>();
 
     //This ArrayList will store the unique ids of every new registered users
-    static   public ArrayList<String> STORING_Ids_Here= new ArrayList<>();
+    static   public ArrayList<String> ID= new ArrayList<>();
 
 
-    public static FileInputStream fileinput; //Pre-defined class present in java for reading the file
-    public static XSSFWorkbook workbook;   //XSSFWorkbook is a class For workbook, we have created an object of the workbook
-    public static XSSFSheet worksheet;  //XSSFSheet is a class For worksheet, we have created an object of the worksheet
-    public static XSSFRow row;       //XSSFRow is a class For row, we have created an object of the row
-    public static XSSFCell cell;    //XSSFCell is a class For cell, we have created an object of the Cell
+
+    public static FileInputStream fileinput;
+    public static XSSFWorkbook workbook;
+    public static XSSFSheet worksheet;
+    public static XSSFRow row;
+    public static XSSFCell cell;
 
 
 
